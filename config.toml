@@ -1,0 +1,60 @@
+baseurl = "http://markkeeley.us/"
+languageCode = "en-us"
+title = "Mark Keeley"
+author = "Mark Keeley"
+copyright = "&copy; All rights reserved"
+canonifyurls = true
+#Weird name but having this set to true fixes tag names
+preserveTaxonomyNames = true
+paginate = 7
+theme = "markkeeleytheme"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  #description = "my description"
+# Shown in the home page
+  subtitle = "Adding insult to injury since 1983"
+  #brand = "Mark Keeley"
+googleAnalytics = "UA-40744057-2"
+# disqus = "Your Disqus shortname"
+  dateFormat = "January 02, 2006"
+  #highlightjs = "androidstudio"
+  copyright = "Mark Keeley"
+
+[permalinks]
+  post = "/:year/:title/"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tag fa-fw'></i>"
+    weight = 2
+    identifier = "tag"
+    url = "/tags/"
+  [[menu.main]]
+    name = "Go + SDL2"
+    pre = "<i class='fa fa-book fa-fw'></i>"
+    weight = 3
+    identifier = "go-sdl2"
+    url = "/pages/go-sdl2/"
+
+
+[social]
+  github = "MarkKeeley"
+  youtube = "MarkCKeeley"
