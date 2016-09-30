@@ -14,7 +14,7 @@ description: Drawing bitmap graphics
 
 Today's lesson is about putting an image (png file in this case) on the screen. No more rectangles for today! Today the stick figures run amok.
 
-{{% fluid_img class="pure-u-1-1" src="/media/lesson03.png" alt="Go SDL2 Lesson 3" %}}
+![Go SDL2 Lesson 3](/media/lesson03.png)
 
 <!--more-->
 

@@ -13,7 +13,8 @@ type = "post"
 +++
 
 Today is all about collision detection using SDL rectangles. This method does have problems dealing with very rounded images, but it has the benefit of being fast and easy to check if there has been a collision. In this example two filled in boxes (blue and green) are checked to see if they intersect/collide. When they do intersect, a third box (outlined and red) is drawn showing the location of where they collide.
-{{% fluid_img class="pure-u-1-1" src="/media/lesson5gosdl2.png" alt="Go SDL2 Lesson 5" %}}
+
+![Go SDL2 Lesson 5](/media/lesson5gosdl2.png)
 
 <!--more-->
 

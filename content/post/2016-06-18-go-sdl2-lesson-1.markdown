@@ -16,7 +16,7 @@ This post is about using the [**Go**](https://golang.org/) programming language 
 
 Okay once everything is installed and setup it is time for lesson 1 - using sdl to create a window and draw two rectangles on the screen.
 
-{{% fluid_img class="pure-u-1-1" src="/media/lesson1.png" alt="Go SDL2 Lesson 1" %}}
+![Go SDL2 Lesson 1](/media/lesson1.png)
 
 <!--more-->
 

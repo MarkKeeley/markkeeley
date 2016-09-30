@@ -25,7 +25,7 @@ Okay, so a change of plans. It is 2016 and anyone who has ever done a "Hello Wor
 Lesson 2 also introduces a bit of movement to the screen to show the importance of calling renderer.Clear() - which clears the screen to the color specified by renderer.SetDrawColor. Be sure to comment out renderer.Clear and watch what happens to the blue rectangle when you don't clear the screen each frame.
 
 
-{{% fluid_img class="pure-u-1-1" src="/media/lesson02.png" alt="Go SDL2 Lesson 2" %}}
+![Go SDL2 Lesson 2](/media/lesson02.png)
 
 
 * * *

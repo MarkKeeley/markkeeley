@@ -13,7 +13,7 @@ description: When the ground isn't so sound
 
 It used to be simple, Kansas had tornadoes and California had earthquakes and it all made sense. After all, California was that piece of land wedged against the North American continental plate - shifting plate tectonics would keep that region geologically...interesting. Kansas, smack dab in the middle of the continent, was expected to stay geologically stable and boring. Thanks to Oklahoma's enthusiasm for fracking that has all changed.
 
-{{% fluid_img class="pure-u-1-1" src="/media/kansasearthquakes.jpg" caption="Earthquake map" alt="Earthquake Map" %}}
+![Earthquake Map](/media/kansasearthquakes.jpg)
 
 I've been checking [EarthquakeTrack](http://earthquaketrack.com/us-ks-wichita/recent) since feeling the first one and there really doesn't seem to be a lull in Oklahoma activity. The first earthquake was met with complete disbelief, "wait, did that just happen?"
 
