@@ -11,7 +11,8 @@ tags:
 - Surprise Party
 title: Dennis Beitler surprise 70th birthday party
 ---
-{{% fluid_img class="pure-u-1-1" src="/media/dennis70th.jpg" alt="Dennis Beitler and his sisters" %}}
+![Dennis Beitler and his sisters](/media/dennis70th.jpg)
+
 Dennis Beitler and his sisters
 
 {{< youtube -N0YxO_ONYM >}}
