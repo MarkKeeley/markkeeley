@@ -22,12 +22,18 @@ The creator of AM2R, DoctorM64 timed the release of the game to the 30th anniver
 
 Okay, so the game has fantastic visuals, great music, and perfect game play/controls, what's the negatives of the game? Bugs. There are two bugs that seem to be affecting some of the playing population. The first is a glitch where Samus turns invisible once you get the gravity suit. I've heard this is affecting some people that have certain AMD graphics cards. The second bug is that sometimes it is possible to fall out of the map (and keep falling and falling and falling...) This is the bug I've been hit by. I was first hit by it around 25% into the game. I had just saved so it wasn't an issue to me, more of a surprise than anything. The area just after the final boss is an area where the game can bug out and Samus might fall through the ground. Not going to lie, getting hit with this bug at the end did damper my enthusiasm for the game a bit. I had just defeated the final boss on the first try in a highly memorable encounter and was running to the very end of the game aaaaaannnnnnndddd then fell through the floor. Not cool. The general advice is after the final boss you pretend you are in a classic mega man game and always jump in the air when you reach a screen transition to protect yourself from the fall through the map bug.
 
-{{% fluid_img class="pure-u-1-1" src="/media/megamanjump.gif" alt="Classic Mega Man screen transition jumping" %}}Classic Mega Man fun
+![Classic Mega Man screen transition jumping](/media/megamanjump.gif)
+
+Classic Mega Man fun
 
 Just to be clear, after the final boss always be in the air when making a screen transition from area to area. You can't be hit with a fall through the floor bug when you aren't even on the ground.
 
 I played on normal difficulty and was starting to worry the game was too easy until I started encountering Zeta Metroids. When the Omega Metroids showed up and started punching me repeatedly in the face I knew AM2R had nailed the Metroid 2 difficulty. I think what was done for the Metroid Queen encounter was masterful. I'm glad the developer resisted the temptation to make the Metroid Queen an ultra difficult boss. He was able to add to the encounter, work within the enclosed space, and still make an incredibly memorable experience.
 
-{{% fluid_img class="pure-u-1-1" src="/media/metroid2queen.jpg" alt="Metroid 2 Queen" %}}Metroid 2 Queen
+![Metroid 2 Queen](/media/metroid2queen.jpg)
 
-{{% fluid_img class="pure-u-1-1" src="/media/am2rqueen.jpg" alt="Another Metroid 2 Remake Queen" %}}Another Metroid 2 Remake Queen
+Metroid 2 Queen
+
+![Another Metroid 2 Remake Queen](/media/am2rqueen.jpg)
+
+Another Metroid 2 Remake Queen
