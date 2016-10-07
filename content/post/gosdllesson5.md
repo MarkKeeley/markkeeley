@@ -7,7 +7,6 @@ description = "Rectangle Collision Detection"
 draft = false
 slug = "go-sdl2-lesson5"
 tags = ["Go / Golang", "SDL2"]
-topics = ["test", "Mark is Amazing"]
 title = "Go SDL2 Lesson 5"
 type = "post"
 
