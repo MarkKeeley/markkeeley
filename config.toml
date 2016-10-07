@@ -12,6 +12,7 @@ theme = "blackburnmodified"
 [taxonomies]
   tag = "tags"
   category = "categories"
+  topic = "topics"
 
 [params]
   #description = "my description"
