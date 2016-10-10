@@ -54,6 +54,12 @@ googleAnalytics = "UA-40744057-2"
     weight = 3
     identifier = "go-sdl2"
     url = "/pages/go-sdl2/"
+  [[menu.main]]
+    name = "Links"
+    pre = "<i class='fa fa-link fa-fw'></i>"
+    weight = 4
+    identifier = "links"
+    url = "/pages/links/"
 
 
 [social]
