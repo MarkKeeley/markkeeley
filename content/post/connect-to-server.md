@@ -7,7 +7,7 @@ tags = ["Mate Desktop", "Linux"]
 categories = ["Technology"]
 type = "post"
 slug = ""
-draft = true
+draft = false
 comments = "false"
 
 +++
@@ -24,4 +24,4 @@ Then select the connection type and fill out the needed info.
 
 ![Connect to Server 2](/media/connectserver.png)
 
-These days you always want to be using SSH over FTP whenever possible. FTP is unsecure and vulnerable to 'man in the middle' attacks. 
+These days you always want to be using SSH over FTP whenever possible. FTP is unsecure and vulnerable to 'man in the middle' attacks. Remember to select "Add bookmark" and give a name to have a handy shortcut. 
