@@ -2,13 +2,12 @@
 author: Mark Keeley
 comments: false
 date: 2016-06-18 02:48:38+00:00
-slug: go-sdl2
-title: Go SDL2 Page
-sidemenu: true
+slug: tutorials
+title: Tutorials
 type: page
 ---
 
-This is where I list my Go + SDL2 lessons.
+# **Go + SDL2 lessons**
 
 [Lesson 1](/2016/go-sdl2-lesson-1/) - Creating a window with sdl2 and adventures with Rectangles
 

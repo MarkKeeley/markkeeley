@@ -7,8 +7,8 @@ date: 2016-07-01T05:00:35Z
 slug: abby-and-the-fourth-of-july
 tags:
 - Abby
-- dogs
-- fireworks
+- Dogs
+- Fireworks
 - Fourth of July
 title: Abby and the Fourth of July
 ---

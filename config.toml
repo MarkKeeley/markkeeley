@@ -49,11 +49,11 @@ googleAnalytics = "UA-40744057-2"
     identifier = "tag"
     url = "/tags/"
   [[menu.main]]
-    name = "Go + SDL2"
+    name = "Tutorials"
     pre = "<i class='fa fa-book fa-fw'></i>"
     weight = 3
-    identifier = "go-sdl2"
-    url = "/pages/go-sdl2/"
+    identifier = "tutorials"
+    url = "/pages/tutorials/"
   [[menu.main]]
     name = "Links"
     pre = "<i class='fa fa-link fa-fw'></i>"
