@@ -61,7 +61,6 @@ googleAnalytics = "UA-40744057-2"
     identifier = "links"
     url = "/pages/links/"
 
-
 [social]
   github = "MarkKeeley"
   youtube = "MarkCKeeley"
