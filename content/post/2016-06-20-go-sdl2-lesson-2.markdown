@@ -1,7 +1,7 @@
 ---
 author: Mark Keeley
 topics:
-- Go / Golang
+- Programming
 comments: false
 date: 2016-06-20T20:47:06Z
 slug: go-sdl2-lesson-2
