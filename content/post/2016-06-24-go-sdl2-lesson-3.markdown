@@ -1,6 +1,6 @@
 ---
 author: Mark Keeley
-categories:
+topics:
 - Go / Golang
 comments: false
 date: 2016-06-24T05:34:10Z

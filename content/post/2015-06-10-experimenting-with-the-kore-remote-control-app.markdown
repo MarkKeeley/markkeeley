@@ -1,6 +1,6 @@
 ---
 author: Mark Keeley
-categories:
+topics:
 - Technology
 comments: true
 date: 2015-06-10T12:29:49Z
