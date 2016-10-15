@@ -1,8 +1,8 @@
 baseurl = "http://markkeeley.us/"
 languageCode = "en-us"
+copyright = "Copyright &copy; 2015. All rights reserved."
 title = "Mark Keeley"
 author = "Mark Keeley"
-copyright = "&copy; All rights reserved"
 canonifyurls = true
 #Weird name but having this set to true fixes tag names
 preserveTaxonomyNames = true
@@ -22,7 +22,6 @@ googleAnalytics = "UA-40744057-2"
 # disqus = "Your Disqus shortname"
   dateFormat = "January 02, 2006"
   #highlightjs = "androidstudio"
-  copyright = "Mark Keeley"
 
 [permalinks]
   post = "/:year/:title/"
