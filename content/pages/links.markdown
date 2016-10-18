@@ -8,6 +8,6 @@ slug: links
 title: Links
 ---
 
-[**Github.com Account**](https://github.com/MarkKeeley)
+[<i class="fa fa-github fa-fw"></i>**Github.com Account**](https://github.com/MarkKeeley)
 
-[**Youtube Account**](https://www.youtube.com/user/MarkCKeeley/)
+[<i class="fa fa-youtube-play fa-fw"></i>**Youtube Account**](https://www.youtube.com/user/MarkCKeeley/)

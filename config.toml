@@ -7,7 +7,7 @@ canonifyurls = true
 #Weird name but having this set to true fixes tag names
 preserveTaxonomyNames = true
 paginate = 7
-theme = "blackburnmodified"
+theme = "simpleblue"
 
 [taxonomies]
   tag = "tags"
