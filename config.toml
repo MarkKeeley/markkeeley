@@ -47,11 +47,11 @@ googleAnalytics = "UA-40744057-2"
     identifier = "tag"
     url = "/tags/"
   [[menu.main]]
-    name = "Tutorials"
+    name = "Projects"
     pre = "<i class='fa fa-book fa-fw'></i>"
     weight = 3
-    identifier = "tutorials"
-    url = "/pages/tutorials/"
+    identifier = "projects"
+    url = "/pages/projects/"
   [[menu.main]]
     name = "Links"
     pre = "<i class='fa fa-link fa-fw'></i>"
