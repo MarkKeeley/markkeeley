@@ -1,13 +1,13 @@
 +++
 Author = "Mark Keeley"
-topics = []
+categories = []
 comments = "false"
-date = "2016-09-16T17:12:41-05:00"
-description = "Enjoyable website creation"
+date = "2016-10-20T01:04:17-05:00"
+description = ""
 draft = true
 slug = ""
-tags = ["Hugo", "html"]
-title = "Hugo"
+tags = []
+title = "hugo"
 type = "post"
 
 +++
