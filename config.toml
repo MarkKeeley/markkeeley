@@ -22,6 +22,9 @@ googleAnalytics = "UA-40744057-2"
 # disqus = "Your Disqus shortname"
   dateFormat = "January 02, 2006"
   #highlightjs = "androidstudio"
+  #showauthor = "true"
+  #showtopics = "true"
+  showtags = "true"
 
 [permalinks]
   post = "/:year/:title/"
