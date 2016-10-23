@@ -1,0 +1,20 @@
++++
+Author = "Mark Keeley"
+comments = "false"
+date = "2016-10-23T00:40:25-05:00"
+description = "HTML Becomes Fun Again"
+draft = true
+slug = ""
+tags = ["HTML", "Hugo"]
+title = "Hugo"
+topics = ["Programming"]
+type = "post"
+
++++
+
+I've been using [Hugo](http://gohugo.io/) for this website ever since I stopped using WordPress. Moving back to static webpages has been great. No more dealing with backing up databases, constant security updates, or mucking about with PHP files. Since the site is just HTML files, the performance is great and the site now uses very little resources on my virtual private server.
+
+I've held off making a post about Hugo until I finished [my theme](https://github.com/MarkKeeley/simpleblue). Hugo does have many [existing themes](http://themes.gohugo.io/) available. When I first started with Hugo I used [Blackburn](http://themes.gohugo.io/blackburn/). It's a good theme, but being me, I wasn't going to be satisfied until I was using a theme of my own creation. The Hugo website has detailed documentation which makes theme creation straightforward. 
+
+My first attempt I went a bit overboard trying to cram it with loads of features and making heavy usage of the "new-ish" flexbox layout. Not the best idea for someone getting back into the HTML world. So after spinning my wheels for a while I decided to start from scratch with more modest ambitions. This site's current theme is the result of my new "lean and mean" approach. A minimalist theme using just plain floats.
+<!--more-->
