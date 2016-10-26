@@ -1,7 +1,7 @@
 ---
 author: Mark Keeley
 topics:
-- Random Musings
+- Are You Pondering What I'm Pondering?
 comments: false
 date: 2016-07-01T05:00:35Z
 slug: abby-and-the-fourth-of-july
@@ -10,6 +10,7 @@ tags:
 - Dogs
 - Fireworks
 - Fourth of July
+- Random Musings
 title: Abby and the Fourth of July
 ---
 ![Mark Keeley's dog Abby](/media/abby.jpg)

@@ -1,12 +1,13 @@
 ---
 author: Mark Keeley
 topics:
-- Random Musings
+- Are You Pondering What I'm Pondering?
 comments: true
 date: 2016-03-06T23:02:32Z
 slug: kansas-earthquakes
 tags:
 - Earthquakes!
+- Random Musings
 title: Kansas Earthquakes
 description: When the ground isn't so sound
 ---
