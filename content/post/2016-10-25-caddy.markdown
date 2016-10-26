@@ -16,4 +16,13 @@ I'm not a fan of [Caddy's](https://caddyserver.com/) slogan, "Surf the web like 
 
 Okay, enough about the marketing. This website is now using https instead of http thanks to Caddy.
 ![https pic](/media/https.png)
-What does that mean? It means that this site serves encrypted webpages. Admittedly, there isn't a pressing reason for the increased security. There's no credit card info to protect and no login passwords to secure from possible "man in the middle" attacks. 
+What does that mean? It means that this site serves encrypted webpages. Admittedly, there isn't a pressing reason for the increased security. There's no credit card info to protect and no login passwords to secure from possible "man in the middle" attacks. Oh and it may or may not increase site speed depending on a myriad of factors. Yeah I know, this hasn't been the most exciting of website changes. Still, when it comes to infrastructure, boring is a good thing. In my case, Caddy lived up to its promise of automatic HTTPS.
+
+Switching over to Caddy from Nginx was surprisingly painless. Here's how I switched using Ubuntu Server 16.04. First, I stopped Nginx from running and then prevented it from starting up on restart.
+
+```
+sudo systemctl stop nginx
+sudo systemctl disable nginx
+```
+
+Then
