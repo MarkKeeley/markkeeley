@@ -3,7 +3,7 @@ Author = "Mark Keeley"
 comments = "false"
 date = "2016-10-25T19:07:38-05:00"
 description = "Serve The Web Like It's #CurrentYear"
-draft = true
+draft = false
 slug = ""
 tags = ["HTML", "Caddy"]
 title = "Caddy Web Server"
@@ -16,7 +16,7 @@ I'm not a fan of [Caddy's](https://caddyserver.com/) slogan, "Surf the web like 
 
 Okay, enough about the marketing. This website is now using https instead of http thanks to Caddy.
 ![https pic](/media/https.png)
-What does that mean? It means that this site serves encrypted webpages. Admittedly, there isn't a pressing reason for the increased security. There's no credit card info to protect and no login passwords to secure from possible "man in the middle" attacks. Oh and it may or may not increase site speed depending on a myriad of factors. Yeah I know, this hasn't been the most exciting of website changes. Still, when it comes to infrastructure, boring is a good thing. In my case, Caddy lived up to its promise of automatic HTTPS.
+What does that mean? It means that this site serves encrypted webpages. Admittedly, there isn't a pressing reason for the increased security. There's no credit card info to protect and no login passwords to secure from possible "man in the middle" attacks. Oh and it may or may not increase site speed depending on a myriad of factors. Yeah I know, this hasn't been the most exciting of website changes. Still, when it comes to infrastructure, boring is a good thing. In my case, Caddy lived up to its promise of automatic HTTPS.<!--more-->
 
 Switching over to Caddy from Nginx was surprisingly painless. Here's how I switched using Ubuntu Server 16.04. First, I stopped Nginx from running and then prevented it from starting up on restart.
 
@@ -25,4 +25,36 @@ sudo systemctl stop nginx
 sudo systemctl disable nginx
 ```
 
-Then
+Then I followed the instructions for [using Caddy as a service](https://github.com/mholt/caddy/tree/master/dist/init/linux-systemd). Github shows the instructions were significantly improved about a month ago, so if you previously tried using them, and it didn't work, you may want to give it another shot. I tried Caddy out last year, but I couldn't get it to run as a service back then and had to continue using Nginx. Running a web server as a service is important because it automatically gets started upon the OS rebooting and if the web server crashes for whatever reason, the OS will restart the web server - minimizing website downtime.
+
+---
+
+Now that I have both Nginx and Caddy installed, if for some reason I want to go back to Nginx, all I have to do is stop it from running and prevent it from starting on reboot with
+
+```
+sudo systemctl stop caddy
+sudo systemctl disable caddy
+```
+
+and then start Nginx with
+
+```
+sudo systemctl start nginx
+sudo systemctl enable nginx
+```
+
+---
+
+With the change to Caddy (and https) I had to make one small change to this website. I had to tell Hugo to make this site using https instead of http in the site config
+
+```
+baseurl = "https://markkeeley.us/"
+```
+
+otherwise the CSS files wouldn't load with the rest of the webpage.
+
+---
+
+The one thing I really don't like about this https everywhere push is the lack of redundancy. It was sensible for commerce websites to adopt better security, but it is another thing to have Google factor the lack of https into a website's search rankings. Even with Google throwing its weight around, pushing https everywhere would have gone nowhere unless it was free to do so. That's where [Let's Encrypt](https://letsencrypt.org/) comes in. Yes, Let's Encrypt is popular. Yes, Let's Encrypt is successful. But it is the only certificate authority granting free certificates for https. The explosion of websites moving to https over the past years is almost entirely due to Let's Encrypt's free certificates. If something were to happen to Let's Encrypt a great many websites would run into issues. Fortunately, with 3 month certificates, most websites wouldn't immediately run into problems if something did happen to Let's Encrypt. Worse, Let's Encrypt isn't self funding, it is dependant on outsiders for funding. 
+
+It's for these reasons that I've made sure it is easy for me to switch back to plain http should something happen to Let's Encrypt. It is highly unlikely another Certificate Authority will step in to add redundancy. Back when the internet was designed, it was made to survive a nuclear attack. These days it gets designed with single points of failure making it far more brittle.
