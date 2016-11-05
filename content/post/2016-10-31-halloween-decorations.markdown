@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = ""
 tags = ["Random Musings"]
-title = "Halloween is the easiest holiday to decorate for"
+title = "Halloween is the most fun holiday to decorate"
 topics = ["Are You Pondering What I'm Pondering?"]
 type = "post"
 
