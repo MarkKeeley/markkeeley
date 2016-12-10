@@ -1,0 +1,18 @@
++++
+Author = "Mark Keeley"
+comments = "false"
+date = "2016-12-10T15:57:37-06:00"
+description = ""
+draft = false
+slug = ""
+tags = ["Dogs"]
+title = "Roxie"
+topics = ["Other"]
+type = "post"
+
++++
+
+In light of recent news from the Vet, I realized that I have a picture of Abby but not one of Roxie on this site. So I am making a post to correct this while I still can. Roxie is a German Shepherd with some Chow in her. For eleven years she has been the self appointed protector of the territory and hunter of rabbits.
+![Roxie](/media/roxie.jpg)
+<!--more-->
+
