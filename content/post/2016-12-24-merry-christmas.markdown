@@ -1,0 +1,18 @@
++++
+Author = "Mark Keeley"
+comments = "false"
+date = "2016-12-24T16:39:13-06:00"
+description = "2016"
+draft = false
+slug = ""
+tags = ["Holidays"]
+title = "Merry Christmas"
+topics = ["Other"]
+type = "post"
+
++++
+
+Have a Merry Christmas and a Happy New Year.
+
+![Christmas Tree](/media/christmastree.jpg "Behold the palm tree Christmas tree")
+<!--more-->
