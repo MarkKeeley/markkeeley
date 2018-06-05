@@ -1,13 +1,13 @@
-baseurl = "https://markkeeley.us/"
+baseurl = "https://markckeeley.com/"
 languageCode = "en-us"
-copyright = "Copyright &copy; 2015 - 2017. All rights reserved."
+copyright = "Copyright &copy; 2015 - 2018. All rights reserved."
 title = "Mark Keeley"
 author = "Mark Keeley"
 canonifyurls = true
 #Weird name but having this set to true fixes tag names
 preserveTaxonomyNames = true
 paginate = 7
-theme = "simpleblue"
+theme = "mkminimal"
 
 [taxonomies]
   tag = "tags"
@@ -18,7 +18,6 @@ theme = "simpleblue"
 # Shown in the home page
   subtitle = "Adding insult to injury since 1983"
   #brand = "Mark Keeley"
-googleAnalytics = "UA-40744057-2"
 # disqus = "Your Disqus shortname"
   dateFormat = "January 02, 2006"
   #highlightjs = "androidstudio"
