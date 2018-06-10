@@ -6,7 +6,7 @@ author = "Mark Keeley"
 canonifyurls = true
 #Weird name but having this set to true fixes tag names
 preserveTaxonomyNames = true
-paginate = 7
+paginate = 10
 theme = "mkminimal"
 
 [taxonomies]
@@ -18,9 +18,7 @@ theme = "mkminimal"
 # Shown in the home page
   subtitle = "Adding insult to injury since 1983"
   #brand = "Mark Keeley"
-# disqus = "Your Disqus shortname"
   dateFormat = "January 02, 2006"
-  #highlightjs = "androidstudio"
   #showauthor = "true"
   #showtopics = "true"
   showtags = "true"
