@@ -2,7 +2,7 @@
 Author = "Mark Keeley"
 comments = "false"
 date = "2016-12-24T16:39:13-06:00"
-description = "2016"
+description = ""
 draft = false
 slug = ""
 tags = ["Holidays"]
