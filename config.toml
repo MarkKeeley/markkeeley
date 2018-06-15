@@ -1,6 +1,6 @@
 baseurl = "https://markckeeley.com/"
 languageCode = "en-us"
-copyright = "Copyright &copy; 2015 - 2018. All rights reserved."
+copyright = "Copyright &copy; 2015 - 2018 Mark Keeley All rights reserved."
 title = "Mark Keeley"
 author = "Mark Keeley"
 canonifyurls = true
