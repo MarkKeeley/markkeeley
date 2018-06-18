@@ -1,6 +1,6 @@
 baseurl = "https://markckeeley.com/"
 languageCode = "en-us"
-copyright = "Copyright &copy; 2015 - 2018 Mark Keeley All rights reserved."
+copyright = "Copyright &copy; 2015 - 2018 Mark Keeley"
 title = "Mark Keeley"
 author = "Mark Keeley"
 canonifyurls = true
@@ -25,37 +25,3 @@ theme = "mkminimal"
 
 [permalinks]
   post = "/:year/:title/"
-
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "Mark Keeley"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 0
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 1
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
-    name = "Tags"
-    pre = "<i class='fa fa-tag fa-fw'></i>"
-    weight = 2
-    identifier = "tag"
-    url = "/tags/"
-  [[menu.main]]
-    name = "Projects"
-    pre = "<i class='fa fa-book fa-fw'></i>"
-    weight = 3
-    identifier = "projects"
-    url = "/pages/projects/"
-  [[menu.main]]
-    name = "Links"
-    pre = "<i class='fa fa-link fa-fw'></i>"
-    weight = 4
-    identifier = "links"
-    url = "/pages/links/"
-
