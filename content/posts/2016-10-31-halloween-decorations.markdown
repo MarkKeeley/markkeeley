@@ -8,7 +8,7 @@ slug = ""
 tags = ["Random Musings"]
 title = "Halloween is the most fun holiday to decorate"
 topics = ["Are You Pondering What I'm Pondering?"]
-type = "post"
+type = "posts"
 
 +++
 

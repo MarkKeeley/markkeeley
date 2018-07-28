@@ -8,7 +8,7 @@ slug = ""
 tags = ["Holidays"]
 title = "Merry Christmas"
 topics = ["Other"]
-type = "post"
+type = "posts"
 
 +++
 

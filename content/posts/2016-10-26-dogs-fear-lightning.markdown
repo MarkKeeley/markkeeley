@@ -8,7 +8,7 @@ slug = ""
 tags = ["Dogs", "Random Musings"]
 title = "Why do dogs still fear lightning?"
 topics = ["Are You Pondering What I'm Pondering?"]
-type = "post"
+type = "posts"
 
 +++
 

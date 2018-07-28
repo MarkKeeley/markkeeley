@@ -8,7 +8,7 @@ draft = false
 slug = "recore-soundtrack"
 tags = ["Recore", "Soundtrack"]
 title = "Recore Soundtrack"
-type = "post"
+type = "posts"
 
 +++
 

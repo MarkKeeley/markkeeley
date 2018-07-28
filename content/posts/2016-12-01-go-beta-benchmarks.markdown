@@ -8,7 +8,7 @@ slug = ""
 tags = ["Go / Golang", "SDL2", "C++", "Benchmarks"]
 title = "More Go SDL2 Benchmarks"
 topics = ["Programming"]
-type = "post"
+type = "posts"
 
 +++
 

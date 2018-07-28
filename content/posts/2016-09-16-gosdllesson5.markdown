@@ -8,7 +8,7 @@ draft = false
 slug = "go-sdl2-lesson5"
 tags = ["Go / Golang", "SDL2"]
 title = "Go SDL2 Lesson 5"
-type = "post"
+type = "posts"
 
 +++
 

@@ -8,7 +8,7 @@ slug = ""
 tags = ["Mate Desktop", "Ubuntu", "Linux"]
 title = "Ubuntu Mate 16.10 Review"
 topics = ["Technology"]
-type = "post"
+type = "posts"
 
 +++
 

@@ -8,7 +8,7 @@ slug = ""
 tags = ["Dogs"]
 title = "Roxie"
 topics = ["Other"]
-type = "post"
+type = "posts"
 
 +++
 

@@ -8,7 +8,7 @@ draft = false
 slug = ""
 tags = ["WordPress", "HTML"]
 title = "Static HTML Generation"
-type = "post"
+type = "posts"
 
 +++
 

@@ -8,7 +8,7 @@ slug = ""
 tags = ["HTML", "Hugo"]
 title = "Hugo"
 topics = ["Programming"]
-type = "post"
+type = "posts"
 
 +++
 

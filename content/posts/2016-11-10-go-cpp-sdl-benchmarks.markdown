@@ -7,7 +7,7 @@ draft = false
 tags = ["Go / Golang", "SDL2", "C++", "Benchmarks"]
 title = "Go SDL2 Benchmarks"
 topics = ["Programming"]
-type = "post"
+type = "posts"
 slug = ""
 
 +++

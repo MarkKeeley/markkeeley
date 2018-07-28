@@ -8,7 +8,7 @@ topics = ["Music"]
 draft = false
 description = ""
 comments = "false"
-type = "post"
+type = "posts"
 
 +++
 
