@@ -19,3 +19,4 @@ My latest discovery is the soaring soundtrack for the recently released game nam
 I would prefer to link to a more official youtube location, but I cannot find a company channel or a composer (Chad Seiter) channel. Seems like a glaring omission for a game released these days - especially for a soundtrack as nice as this one.
 
 Is the game any good? No idea. I've never had a Microsoft console and my computer is too old to run it. Reviews seem to suggest it starts out strong then suffers from bad pacing issues and bad Mario 64 star collect-a-thon gating problems.
+<!--more-->

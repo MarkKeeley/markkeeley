@@ -14,7 +14,7 @@ type = "posts"
 
 I have [Doom 2016](http://www.imdb.com/title/tt1799527) to thank for coming across the work of [Mick Gordon](https://www.youtube.com/user/GameAudioAustralia/featured). The game itself seems to have been a success. Every where I looked I saw people praise the single player part of the game. As for the multiplayer, the response seems to be, "meh." Someday with a newer computer I'd like to give it a shot.
 
-Doom 2016's soundtrack is certainly a worthy update to the "Nu Rock" of 1990's Doom. 
+Doom 2016's soundtrack is certainly a worthy update to the "Nu Rock" of 1990's Doom.
 {{< youtube VZ4fJBFM4FY >}}
 
 {{< youtube eJa1Kl65L6Q >}}
@@ -27,3 +27,4 @@ This last piece is my favorite Mick Gordon song I've come across.
 
 {{< youtube FB_MUSbR-sA >}}
 
+<!--more-->
