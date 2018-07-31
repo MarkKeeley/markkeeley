@@ -48,13 +48,13 @@ Looking at the results I can't help but think that the garbage collector has bec
 First off, [the source files for the tests](/media/sdltests.zip). Both the Go & C++ programs are set to test with 100 boxes. To change the number of boxes you will need to alter the for loops (for C++ in main.cpp and for Go in application.go.)
 
 With Go (version 1.7.1) I used the standard compiler commands:
-```
-go build *.go
-```
+
+> go build *.go
+
 With C++ (gcc version 6.2.0 20161005 (Ubuntu 6.2.0-5ubuntu12):
-```
-g++ main.cpp -std=c++14 -lSDL2 -O2 -o filename
-```
+
+> g++ main.cpp -std=c++14 -lSDL2 -O2 -o filename
+
 
 Okay, time for the not averaged results. My desktop is an old Intel Core2 Quad CPU Q9300 @ 2.50GHz with an AMD 4670 graphics card.
 
