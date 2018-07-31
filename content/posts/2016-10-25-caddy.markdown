@@ -20,10 +20,10 @@ What does that mean? It means that this site serves encrypted webpages. Admitted
 
 Switching over to Caddy from Nginx was surprisingly painless. Here's how I switched using Ubuntu Server 16.04. First, I stopped Nginx from running and then prevented it from starting up on restart.
 
-```
-sudo systemctl stop nginx
-sudo systemctl disable nginx
-```
+
+> sudo systemctl stop nginx
+> sudo systemctl disable nginx
+
 
 Then I followed the instructions for [using Caddy as a service](https://github.com/mholt/caddy/tree/master/dist/init/linux-systemd). Github shows the instructions were significantly improved about a month ago, so if you previously tried using them, and it didn't work, you may want to give it another shot. I tried Caddy out last year, but I couldn't get it to run as a service back then and had to continue using Nginx. Running a web server as a service is important because it automatically gets started upon the OS rebooting and if the web server crashes for whatever reason, the OS will restart the web server - minimizing website downtime.
 
@@ -31,25 +31,25 @@ Then I followed the instructions for [using Caddy as a service](https://github.c
 
 Now that I have both Nginx and Caddy installed, if for some reason I want to go back to Nginx, all I have to do is stop it from running and prevent it from starting on reboot with
 
-```
-sudo systemctl stop caddy
-sudo systemctl disable caddy
-```
+
+> sudo systemctl stop caddy
+> sudo systemctl disable caddy
+
 
 and then start Nginx with
 
-```
-sudo systemctl start nginx
-sudo systemctl enable nginx
-```
+
+> sudo systemctl start nginx
+> sudo systemctl enable nginx
+
 
 ---
 
 With the change to Caddy (and https) I had to make one small change to this website. I had to tell Hugo to make this site using https instead of http in the site config
 
-```
-baseurl = "https://markkeeley.us/"
-```
+
+> baseurl = "https://markkeeley.us/"
+
 
 otherwise the CSS files wouldn't load with the rest of the webpage.
 
