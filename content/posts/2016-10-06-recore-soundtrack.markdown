@@ -6,7 +6,7 @@ date = "2016-10-06T18:56:40-05:00"
 description = ""
 draft = false
 slug = "recore-soundtrack"
-tags = ["Recore", "Soundtrack"]
+tags = ["Recore", "Music", "Soundtrack"]
 title = "Recore Soundtrack"
 type = "posts"
 

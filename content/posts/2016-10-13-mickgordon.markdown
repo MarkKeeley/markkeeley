@@ -2,7 +2,7 @@
 slug = ""
 title = "Mick Gordon"
 Author = "Mark Keeley"
-tags = ["Soundtrack", "Doom", "Killer Instinct"]
+tags = ["Music", "Soundtrack", "Doom", "Killer Instinct"]
 date = "2016-10-13T11:05:32-05:00"
 topics = ["Music"]
 draft = false
