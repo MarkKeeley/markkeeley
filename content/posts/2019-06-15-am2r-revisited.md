@@ -34,4 +34,6 @@ So what are the changes from version 1.1 (the last version from the original dev
 
 For those wanting to try the updated version (or try AM2R out for the first time) the best place to look these days is at the [AM2R subreddit.](https://www.reddit.com/r/AM2R/) The most common downloads are for the Windows platform, but I had no problem playing it on Linux through [wine.](https://www.winehq.org/)
 
+**Update:** The flying creature I have a picture of is called a [Septogg](https://metroid.fandom.com/wiki/Septogg). I was right that they were creatures featured in Metroid 2 but did not appear in earlier versions of AM2R.
+
 <!--more-->
