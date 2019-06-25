@@ -5,7 +5,7 @@ type = "posts"
 title = "TMNT Rescue Palooza"
 description = "Copyright take down in 3...2...1..."
 draft = "false"
-tags = ["video games"]
+tags = ["video games", "tmnt"]
 topics = []
 comments = "false"
 slug = ""
@@ -13,7 +13,7 @@ date = 2019-06-23T23:18:25-05:00
 
 +++
 
-I just found out about an impressive fan made game called [Teenage Mutant Ninja Turtles Rescue Palooza.](https://www.merso-x.com/teenage-mutant-ninja-turtles-rescue) It is guaranteed to be taken down at some point but fortunately it is finished and on the internet.
+I just found out about an impressive fan made game called [Teenage Mutant Ninja Turtles Rescue Palooza.](https://www.merso-x.com/teenage-mutant-ninja-turtles-rescue) It is guaranteed to be taken down at some point, but fortunately it is finished and on the internet. The game is for the Windows PC platform, but I've been enjoying it on Linux through [wine](https://www.winehq.org/). One stand out feature I haven't been able to try yet is local co-op with up to 4 players. I haven't beaten it yet, but I am having a blast playing it single player.
 
 ![Turtle Power](/media/TMNT_RP_1_0_8 - 0012.png "Turtle Power")
 
