@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [taxonomies]
   tag = "tags"
-  topic = "topics"
+  #topic = "topics"
 
 [params]
   #description = "my description"
