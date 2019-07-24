@@ -5,7 +5,7 @@ type = "posts"
 title = "Hollow Knight"
 description = "A thoroughly enjoyable game"
 draft = "false"
-tags = ["video games"]
+tags = ["video games", "Hollow Knight"]
 topics = []
 comments = "false"
 slug = ""
@@ -13,7 +13,7 @@ date = 2019-07-23T01:16:43-05:00
 
 +++
 
-After hearing about this game off and on for the past 2 years I finally picked it up during the recent Steam sale. After having beaten it (the first ending anyways) I certainly see why it is so highly praised. If you are a fan of the [metroidvania](https://infogalactic.com/info/Metroidvania) genre, then [Hollow Knight](https://hollowknight.com/) is a must play game.
+After hearing about this game off and on for the past 2 years I finally picked it up during the recent Steam sale. Now having beaten it (the first ending anyways) I certainly see why it is so highly praised. If you are a fan of the [metroidvania](https://infogalactic.com/info/Metroidvania) genre, then [Hollow Knight](https://hollowknight.com/) is a must play game.
 
 In terms of exploration this is a huge game. In terms of map size Hollow Knight is at least twice as large as Super Metroid. In fact there are locations (like a bee hive) that I just never found during my 81% complete play through. The game makes a few design choices to really emphasize exploring. Often in games you end up paying more attention to the in game map than the actual area. This is particularly true when a game gives you a good portion of the map just for entering an area. Hollow Knight doesn't work that way. When you enter a new area the map is not available. You explore the area blind and eventually you can come across a cartographer charting the area. You learn to listen for an audio cue the cartographer makes that lets you know he's in the area. Well, except for Deepnest, but I don't blame him for staying quiet there. The cartographer sells partially filled out maps. With an upgrade you can then fill out the area map with places you have visited. Except....you can only add visited places at game save spot benches. Over and over the game makes design decisions to force the player to focus on the area and not a map. It is easy to see why, the large game map has a great many visually interesting areas. From a raining city, to fungal waste area filled with mushrooms and acid, to a windy clifftop, the art style manages to be striking while maintaining a fairly muted color scheme.
 
