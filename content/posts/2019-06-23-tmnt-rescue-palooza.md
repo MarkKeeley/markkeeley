@@ -15,17 +15,17 @@ date = 2019-06-23T23:18:25-05:00
 
 I just found out about an impressive fan made game called [Teenage Mutant Ninja Turtles Rescue Palooza.](https://www.merso-x.com/teenage-mutant-ninja-turtles-rescue) It is guaranteed to be taken down at some point, but fortunately it is finished and on the internet. The game is for the Windows PC platform, but I've been enjoying it on Linux through [wine](https://www.winehq.org/). One stand out feature I haven't been able to try yet is local co-op with up to 4 players. I haven't beaten it yet, but I am having a blast playing it single player.
 
-![Turtle Power](/media/TMNT_RP_1_0_8 - 0012.png "Turtle Power")
+![Turtle Power](/media/TMNT_RP_1_0_8-0012.png "Turtle Power")
 
 <!--more-->
 
-![Slash](/media/TMNT_RP_1_0_8 - 0004.png "Go get them Slash!")
+![Slash](/media/TMNT_RP_1_0_8-0004.png "Go get them Slash!")
 
-![Krang](/media/TMNT_RP_1_0_8 - 0014.png "First Krang fight")
+![Krang](/media/TMNT_RP_1_0_8-0014.png "First Krang fight")
 
-![Technodrome Appears](/media/TMNT_RP_1_0_8 - 0016.png "Technodrome appears")
+![Technodrome Appears](/media/TMNT_RP_1_0_8-0016.png "Technodrome appears")
 
-![Technodrome](/media/TMNT_RP_1_0_8 - 0017.png "Technodrome in full splendor")
+![Technodrome](/media/TMNT_RP_1_0_8-0017.png "Technodrome in full splendor")
 
 The game is made in the style of the two NES Ninja Turtle games [Teenage Mutant Ninja Turtles II: The Arcade Game](https://infogalactic.com/info/Teenage_Mutant_Ninja_Turtles_(arcade_game)) and [Teenage Mutant Ninja Turtles III: The Manhattan Project.](https://infogalactic.com/info/Teenage_Mutant_Ninja_Turtles_III:_The_Manhattan_Project)
 
