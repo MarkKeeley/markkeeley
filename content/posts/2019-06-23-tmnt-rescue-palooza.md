@@ -5,7 +5,7 @@ type = "posts"
 title = "TMNT Rescue Palooza"
 description = "Copyright take down in 3...2...1..."
 draft = "false"
-tags = ["video games", "tmnt"]
+tags = ["video games", "tmnt", "wine", "Linux"]
 topics = []
 comments = "false"
 slug = ""
@@ -16,6 +16,8 @@ date = 2019-06-23T23:18:25-05:00
 I just found out about an impressive fan made game called [Teenage Mutant Ninja Turtles Rescue Palooza.](https://www.merso-x.com/teenage-mutant-ninja-turtles-rescue) It is guaranteed to be taken down at some point, but fortunately it is finished and on the internet. The game is for the Windows PC platform, but I've been enjoying it on Linux through [wine](https://www.winehq.org/). One stand out feature I haven't been able to try yet is local co-op with up to 4 players. I haven't beaten it yet, but I am having a blast playing it single player.
 
 ![Turtle Power](/media/TMNT_RP_1_0_8 - 0012.png "Turtle Power")
+
+<!--more-->
 
 ![Slash](/media/TMNT_RP_1_0_8 - 0004.png "Go get them Slash!")
 
@@ -34,5 +36,3 @@ The game is made in the style of the two NES Ninja Turtle games [Teenage Mutant 
 **60 Playable Characters:** The huge playable character roster gives this game immense replayability. You start with the 4 turtles but as you complete levels you rescue/defeat other characters to play. Since you can pick which order to complete levels you can unlock specific characters early on. My biggest surprise has been April O'Neil. The game gives her a microphone on a cord that she swings like a whip. Suddenly the game takes on a Castlevania feel with longer range attacks but taking more damage when struck.
 
 **Bottom Line:** Play it. The 1980's & 1990's side scrolling "beat 'em up" is a long dead video game genre. These types of games simply aren't made anymore. This fan made project is a wonderful throw back to some classic games. Then factor in just how much effort, charm, and polish was put into this game and it's extremely clear that this was a passion project.
-
-<!--more-->
