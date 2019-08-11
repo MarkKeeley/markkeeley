@@ -8,6 +8,7 @@ slug: am2r-1-1-was-released
 tags:
 - Metroid
 - Video Games
+- am2r
 title: AM2R 1.1 was released
 description: The low % speed runs of this game are crazy
 ---

@@ -8,6 +8,7 @@ slug: another-metroid-2-remake-is-one-week-away
 tags:
 - Metroid
 - Video Games
+- am2r
 title: Another Metroid 2 Remake is one week away
 ---
 

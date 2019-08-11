@@ -8,6 +8,7 @@ slug: doctorm64-does-what-nintendont
 tags:
 - Metroid
 - Video Games
+- am2r
 title: DoctorM64 does what Nintendon't
 description: An instant classic
 ---
