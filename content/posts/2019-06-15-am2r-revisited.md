@@ -17,7 +17,7 @@ It has been almost 3 years since I [first reviewed AM2R.](/2016/doctorm64-does-w
 
 Having recently beaten the game, it is every bit as fun as I remember the unofficial Metroid outting to be. I finished it just under 4 hours and with a 95% item completion. Depending on where you get the latest version, you can get it with the higher quality music or seperate as part of an extras package. The higher quality music is highly recommended as the better bass made the experience even better. 
 
-{{< youtube hyv7X6EoHlw >}}
+[![AM2R music](https://img.youtube.com/vi/hyv7X6EoHlw/0.jpg)](https://www.youtube.com/watch?v=hyv7X6EoHlw "AM2R music")
 
 So what are the changes from version 1.1 (the last version from the original developer) and version 1.4.3?
 
