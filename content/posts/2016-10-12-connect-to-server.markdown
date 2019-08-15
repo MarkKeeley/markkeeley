@@ -18,10 +18,10 @@ Fortunately for those using the Mate desktop there is great built in option. <!-
 
 So how do you do this? First open the Caja file browser. Next go to the file menu and select "Connect to Server..."
 
-![Connect to Server](/media/connectserver.gif)
+![Connect to Server](/media/img/connectserver.gif)
 
 Then select the connection type and fill out the needed info.
 
-![Connect to Server 2](/media/connectserver.png)
+![Connect to Server 2](/media/img/connectserver.png)
 
 These days you always want to be using SSH over FTP whenever possible. FTP is unsecure and vulnerable to 'man in the middle' attacks. Remember to select "Add bookmark" and give a name to have a handy shortcut. 

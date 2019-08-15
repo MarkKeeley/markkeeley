@@ -14,7 +14,7 @@ description: Working with fonts
 
 While I was working on lesson 4 I noticed that the **[SDL2 bindings](https://github.com/veandco/go-sdl2)** had been updated since the last time I checked, and the update added a new **[example](https://github.com/veandco/go-sdl2-examples/blob/382efbbb8a866db862770c6b5a28f778c0749ce3/examples/text/text.go)** on font rendering. Fortunately for me, the example doesn't deal with hardware acceleration and only handles 1 of the 3 types of fonts so I'm not trashing this lesson. 
 
-![Go SDL2 Lesson 4](/media/lesson04.png)
+![Go SDL2 Lesson 4](/media/img/lesson04.png)
 
 <!--more-->
 

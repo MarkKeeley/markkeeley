@@ -22,7 +22,7 @@ One of the gems of the Linux ecosystem that can never get enough attention is [K
 
 My favorite feature of KDE Connect is having text messages (SMS) pop up on my computer. I make heavy use of [2 factor authentication](https://infogalactic.com/info/Two-factor_authentication) whenever I can (banking, email, domain names) for better security and it is very convenient to have the login password appear for copying & pasting.
 
-![KDE Connect](/media/kdeconnect.png)
+![KDE Connect](/media/img/kdeconnect.png)
 
 You'll need to install the KDE Connect app on your android device. It is a free app that can be downloaded from [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) or the [Google Play Store](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US).
 

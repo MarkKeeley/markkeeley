@@ -11,7 +11,7 @@ tags:
 - Surprise Party
 title: Dennis Beitler surprise 70th birthday party
 ---
-![Dennis Beitler and his sisters](/media/dennis70th.jpg)
+![Dennis Beitler and his sisters](/media/img/dennis70th.jpg)
 
 Dennis Beitler and his sisters
 

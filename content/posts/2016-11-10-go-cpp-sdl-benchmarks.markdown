@@ -43,7 +43,7 @@ I have the benchmark details farther down in the post, but first two short summa
 
 Looking at the results I can't help but think that the garbage collector has become a very small performance hindrance, but the overhead from making CGO calls adds up very fast. CGo has long been known as relatively slow and these benchmarks show how that starts to kick in at 1,000 rectangles.
 
-![Picture of benchmark program](/media/sdl2benchmarktest.png "Benchmark program with 100 rectangles")
+![Picture of benchmark program](/media/img/sdl2benchmarktest.png "Benchmark program with 100 rectangles")
 
 First off, [the source files for the tests](/media/sdltests.zip). Both the Go & C++ programs are set to test with 100 boxes. To change the number of boxes you will need to alter the for loops (for C++ in main.cpp and for Go in application.go.)
 

@@ -13,7 +13,7 @@ date = 2018-08-02T01:14:05-05:00
 
 +++
 _"On a mountain of skulls, in the castle of pain, I sat on a throne of blood! What was will be! What is will be no more! Now is the season of EVIL!"_ - Vigo
-![Vigo the Carpathian](/media/vigo.jpg)
+![Vigo the Carpathian](/media/img/vigo.jpg)
 
 Okay, so I'm a fan of OG [Ghostbusters](https://www.imdb.com/title/tt0087332/?ref_=fn_al_tt_2) - even [Ghostbusters II](https://www.imdb.com/title/tt0097428/?ref_=fn_al_tt_4) and I do like this [Etsy Canvas Print](https://www.etsy.com/listing/214553292/vigo-the-carpathian-canvas-print/) - but I don't like it enough to pay $160. At the time of writing this it shows there's only 1 remaining so you may want to act fast  if you do want it.
 

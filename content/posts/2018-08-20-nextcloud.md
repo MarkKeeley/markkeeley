@@ -22,7 +22,7 @@ date = 2018-08-20T22:54:08-05:00
 * optional RSS feed reader
 * video conferencing
 
-![Nextcloud](/media/nextcloud.png)
+![Nextcloud](/media/img/nextcloud.png)
 
 I haven't tested out the video chat capabilities and I doubt the Raspberry Pi 3 I run Nextcloud on is up to the challenge anyways. I'm generally a big fan of compiled binaries (like from Go) but there's no getting around the fact that PHP does give Nextcloud a lot of add-on potential. The add-on I've been using the most is the RSS feed reader. I hadn't even planned on using it, but when KDE's Personal Information Management system bugged out (again!) I thought I'd try something new. Desktop or smartphone, the RSS feed reader works great.
 

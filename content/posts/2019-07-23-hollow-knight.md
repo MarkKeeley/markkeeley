@@ -15,7 +15,7 @@ date = 2019-07-23T01:16:43-05:00
 
 After hearing about this game off and on for the past 2 years I finally picked it up during the recent Steam sale. Now having beaten it (the first ending anyways) I certainly see why it is so highly praised. If you are a fan of the [metroidvania](https://infogalactic.com/info/Metroidvania) genre, then [Hollow Knight](https://hollowknight.com/) is a must play game.
 
-![Hollow Knight](/media/hollow_knight.jpg "Hollow Knight")
+![Hollow Knight](/media/img/hollow_knight.jpg "Hollow Knight")
 
 <!--more-->
 

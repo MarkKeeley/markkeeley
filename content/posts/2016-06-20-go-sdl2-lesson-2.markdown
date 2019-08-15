@@ -21,7 +21,7 @@ Lesson 1 was about using sdl2 to create a window and draw something on it. Lesso
 Lesson 2 also introduces a bit of movement to the screen to show the importance of calling renderer.Clear() - which clears the screen to the color specified by renderer.SetDrawColor. Be sure to comment out renderer.Clear and watch what happens to the blue rectangle when you don't clear the screen each frame.
 
 
-![Go SDL2 Lesson 2](/media/lesson02.png)
+![Go SDL2 Lesson 2](/media/img/lesson02.png)
 
 <!--more-->
 

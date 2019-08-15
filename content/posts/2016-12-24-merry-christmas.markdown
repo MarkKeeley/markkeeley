@@ -14,5 +14,5 @@ type = "posts"
 
 Have a Merry Christmas and a Happy New Year.
 
-![Christmas Tree](/media/christmastree.jpg "Behold the palm tree Christmas tree")
+![Christmas Tree](/media/img/christmastree.jpg "Behold the palm tree Christmas tree")
 <!--more-->

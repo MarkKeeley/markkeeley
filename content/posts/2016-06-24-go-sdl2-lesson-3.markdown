@@ -14,7 +14,7 @@ description: Drawing bitmap graphics
 
 Today's lesson is about putting an image (png file in this case) on the screen. No more rectangles for today! Today the stick figures run amok.
 
-![Go SDL2 Lesson 3](/media/lesson03.png)
+![Go SDL2 Lesson 3](/media/img/lesson03.png)
 
 <!--more-->
 
