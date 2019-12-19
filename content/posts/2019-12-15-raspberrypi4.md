@@ -20,6 +20,6 @@ The two best improvements to the newest Pi for my usage is that the Pi 4 is the 
 
 I've been scanning 20 year old family photos and sharing them with family members using Nextcloud. One thing I learned quickly when I was using a Pi 3 was that it didn't take much for it to be overwelmed when uploading photos. Often just uploading more than one photo at a time to Nextcloud was enough to make the Pi 3 freeze and need to be turned off/on to work again. Admittedly these are high quality scans (typically 1.4 Meg) but carefully uploading just one file at a time was slow. Fortunately none of this is an issue with my new Pi 4. I'm not sure if this is due to the better cpu or double the ram, but I've been able to upload multiple photos at a time without issue.
 
-If you were watching the launch of the Raspberry Pi 4 one thing people that had them wanted to talk about was how much hotter they were running compared to previous versions. An improved firmware came out before I obtained my Pi so I can't compare them. I will say that with the new firmware my Pi 4 doesn't seem to be running noticably hotter than my Pi 3.
+If you were watching the launch of the Raspberry Pi 4 one thing people that had them wanted to talk about was how much hotter they were running compared to previous versions. An improved firmware came out before I obtained my Pi so I can't compare them. I will say that with the new firmware my Pi 4 doesn't seem to be running noticably hotter than my Pi 3, but a webserver won't be pushing the cpu to 100% for a prolonged period of time.
 
 <!--more-->
