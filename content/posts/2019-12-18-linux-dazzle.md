@@ -4,7 +4,7 @@ Author = "Mark Keeley"
 type = "posts"
 title = "Video Capture with Dazzle DVC100 using Linux"
 description = ""
-draft = "true"
+draft = "false"
 tags = ["linux", "guide"]
 comments = "false"
 slug = ""
@@ -18,9 +18,9 @@ My Dad has been video recording family events since 1988. This means he has a hu
 
 <!--more-->
 
-Last time I used a computer running Windows 7, but everything I have now is Linux or Windows 10. The [driver download website](http://cdn.pinnaclesys.com/SupportFiles/Hardware_Installer/readmeHW10.htm) hasn't been updated since 2012 and doesn't support Windows 10. I did try to use the Windows 7 drivers but it didn't work. Fortunately the Linux side of things has improved greatly from what it was years ago. With [Video 4 Linux 2](https://infogalactic.com/info/Video4Linux) my video capture device is recognized and I've been able to start recording again - with a few gotchas. I haven't been able to get [VLC](https://www.videolan.org/vlc/) working with Dazzle but [OBS Studio](https://obsproject.com/) easily worked.
+Last time I used a computer running Windows 7 to record, but everything I have now is Linux or Windows 10. The [driver download website](http://cdn.pinnaclesys.com/SupportFiles/Hardware_Installer/readmeHW10.htm) hasn't been updated since 2012 and doesn't support Windows 10. I did try to use the Windows 7 drivers but it didn't work. Fortunately the Linux side of things has improved greatly from what it was years ago. With [Video 4 Linux 2](https://infogalactic.com/info/Video4Linux) my video capture device is recognized and I've been able to start recording again - with a few gotchas. I haven't been able to get [VLC](https://www.videolan.org/vlc/) working with Dazzle but [OBS Studio](https://obsproject.com/) easily worked.
 
-Due to the nature of the videos I want to digitize I record with ffmpeg in an uncompressed format to edit and [deinterlace](https://infogalactic.com/info/Deinterlacing) later. A 30 minute long recording is 50+ gigabytes.
+Due to the nature of the videos I want to digitize I record with ffmpeg in an uncompressed format to edit and [deinterlace](https://infogalactic.com/info/Deinterlacing) later. A 30 minute long recording is 53+ gigabytes.
 
 First you need to figure out which audio capture device belongs to Dazzle.
 
@@ -53,6 +53,12 @@ And *finally* the command to start recording with ffmpeg:
 
 >ffmpeg -thread_queue_size 1024 -f video4linux2 -input_format yuyv422 -i /dev/video0 -thread_queue_size 1024 -f alsa -i hw:2,0 -c:v copy -c:a pcm_s16le -ac 1 output.avi
 
-Make sure you are in the location you want to record the file. Press q to stop recording. So what does that command all do? It tells ffmpeg to start recording with the dazzle's native uncompressed video format (yuyv422) and that the video device is video0. If your dazzle is on a different video device number you will need to change the command. It tells ffmpeg to record audio uncompressed (pcm_s16le) and that the audio is found at card 2 (hw:2,0). If your dazzle's audio is a different number you will need to make the adjustment.
+Make sure you are in the location you want to record the file. Press q to stop recording. So what does that command all do? It tells ffmpeg to start recording with the dazzle's native uncompressed video format (yuyv422) and that the video device is video0. If your dazzle is on a different video device number you will need to change the command. It also tells ffmpeg to record audio uncompressed (pcm_s16le) and that the audio is found at card 2 (hw:2,0). If your dazzle's audio is a different number you will need to make the adjustment.
 
 When I first tried recording the audio would occasionally drop out and ffmpeg would regularly warn about the default thread queue size being too small. I added -thread_queue_size 1024 to increase the amount of ram made available so that wouldn't be an issue. Yes, -thread_queue_size being listed twice is intentional; once for video, second for audio.
+
+While this hasn't been an issue for me using ffmpeg, using other programs sometimes made the dazzle's audio stop working. [This helpful website](https://forums.linuxmint.com/viewtopic.php?t=123022) has a useful command to reset audio if it stops working:
+
+>v4l2-ctl --set-standard=ntsc --set-input=0 --set-ctrl=mute=0
+
+For my simple editing needs I use [Avidemux](https://flathub.org/apps/details/org.avidemux.Avidemux) to work on my recordings. There are multiple options to deinterlace recordings found in the video filter section.
