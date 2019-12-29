@@ -20,7 +20,7 @@ My Dad has been video recording family events since 1988. This means he has a hu
 
 Last time I used a computer running Windows 7 to record, but everything I have now is Linux or Windows 10. The [driver download website](http://cdn.pinnaclesys.com/SupportFiles/Hardware_Installer/readmeHW10.htm) hasn't been updated since 2012 and doesn't support Windows 10. I did try to use the Windows 7 drivers but it didn't work. Fortunately the Linux side of things has improved greatly from what it was years ago. With [Video 4 Linux 2](https://infogalactic.com/info/Video4Linux) my video capture device is recognized and I've been able to start recording again - with a few gotchas. I haven't been able to get [VLC](https://www.videolan.org/vlc/) working with Dazzle but [OBS Studio](https://obsproject.com/) easily worked.
 
-Due to the nature of the videos I want to digitize I record with ffmpeg in an uncompressed format to edit and [deinterlace](https://infogalactic.com/info/Deinterlacing) later. A 30 minute long recording is 53+ gigabytes.
+Due to the nature of the videos I want to digitize I record with ffmpeg in an uncompressed format to edit and [deinterlace](https://infogalactic.com/info/Deinterlacing) later. A 30 minute long recording is around 36 gigabytes.
 
 First you need to figure out which audio capture device belongs to Dazzle.
 
